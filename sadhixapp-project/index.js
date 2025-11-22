@@ -3,7 +3,7 @@
     const port = 3000;
 
     app.get('/', (req, res) => {
-      res.send('Hello from Dockerized Node.js app in DOCKER new');
+      res.send('Hello from Dockerized Node.js app in DOCKER TESTTING');
     });
 
     app.listen(port, () => {
